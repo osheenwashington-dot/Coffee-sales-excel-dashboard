@@ -22,7 +22,8 @@ The objective of this project was to analyze coffee sales data and develop an in
 ---
 ## 📷 Dashboard Preview
 
-![Coffee Sales Dashboard](Images/coffee_sales_dashboard.png)
+<img width="1345" height="596" alt="image" src="https://github.com/user-attachments/assets/2d4ca589-68c3-45af-ab37-7df2d51649fd" />
+
 
 ---
 
