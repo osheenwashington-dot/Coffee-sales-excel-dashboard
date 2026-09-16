@@ -122,15 +122,7 @@ The timeline and slicers were connected to the relevant PivotTables and charts u
 
 ---
 
-## 🛠️ Tools & Techniques
-
-**Tools:**
-
-- Microsoft Excel
-- Generative AI
-- GitHub
-
-**Techniques:**
+## 🛠️ Techniques Used
 
 - XLOOKUP
 - INDEX & MATCH
